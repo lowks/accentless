@@ -4,12 +4,12 @@ require "accentless/version"
 
 Gem::Specification.new do |s|
   s.name        = "accentless"
-  s.version     = Accentless::VERSION
+  s.version     = Accentless::VERSIONhttps://github.com/lucasas/accentless/
   s.authors     = ["Lucas Souza"]
   s.email       = ["lucasas@gmail.com"]
-  s.homepage    = ""
-  s.summary     = ""
-  s.description = ""
+  s.homepage    = "http://github.com/lucasas/accentless/"
+  s.summary     = %q{Rubygem to removing accents}
+  s.description = %q{Rubygem to removing accents.}
 
   s.rubyforge_project = "accentless"
 
